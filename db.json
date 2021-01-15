@@ -1,0 +1,26 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Вася",
+      "surname": "Пупкин"
+    },
+    {
+      "id": 1610687775015,
+      "name": "Вася",
+      "surname": "Косоруков"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "admin",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "userName": "test",
+      "password": "test"
+    }
+  ]
+}
