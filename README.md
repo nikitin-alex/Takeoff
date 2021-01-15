@@ -11,11 +11,16 @@ https://github.com/typicode/json-server
 # Запуск
 
 npm i
+
 npm run server
+
 npm run start
 
 # TODO
 сделать поиск
+
 сделать меню
+
 сделать разлогирование
+
 сделать более надежную авторизацию
